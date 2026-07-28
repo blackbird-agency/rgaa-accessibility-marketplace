@@ -1,12 +1,9 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
-  "name": "rgaa-accessibility",
+  "name": "synolia-accessibility",
   "description": "Skills for RGAA accessibility for Claude",
   "owner": {
     "name": "Synolia"
-  },
-  "metadata": {
-    "pluginRoot": "./plugins"
   },
   "plugins": [
     {
