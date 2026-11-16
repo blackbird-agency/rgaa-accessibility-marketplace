@@ -1,6 +1,6 @@
 ---
 name: rgaa-review
-description: Use when reviewing the front-end files of a change set for RGAA 4.1.2 accessibility — before a commit, or as one of the reviewers `polish` dispatches. Covers templates, layout files adding markup, JS, CSS and utility class sources. Read-only.
+description: Use when reviewing the front-end files of a change set for RGAA 4.1.2 accessibility — templates, layout files adding markup, JS, CSS and utility class sources.
 ---
 
 # RGAA review
